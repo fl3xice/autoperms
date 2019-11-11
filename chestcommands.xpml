@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<base author="You">
+    <permissions>
+        <perm perm="chestcommands.command.help">chestcommands.command.help</perm>
+        <perm perm="chestcommands.command.help">ccHelp</perm>
+        <perm perm="chestcommands.open.filename.yml">ccOpenCurrentMenu</perm>
+        <perm perm="chestcommands.open.filename.yml">ccOCM</perm>
+        <perm perm="chestcommands.open.filename.yml">ccopenmn</perm>
+        <perm perm="chestcommands.command.open">ccopen</perm>
+    </permissions>
+</base>

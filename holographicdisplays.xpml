@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<base author="FlexICE">
+    <permissions>
+        <perm perm="holograms.*">hdall</perm>
+        <perm perm="holograms.help">hdhelp</perm>
+        <perm perm="holograms.create">hdcreate</perm>
+        <perm perm="holograms.delete">hddelete</perm>
+        <perm perm="holograms.list">hdlist</perm>
+        <perm perm="holograms.near">hdnear</perm>
+        <perm perm="holograms.teleport">hdteleport</perm>
+        <perm perm="holograms.align">hdalign</perm>
+        <perm perm="holograms.movehere">hdmovehere</perm>
+        <perm perm="holograms.edit">hdedit</perm>
+        <perm perm="holograms.addline">hdaddline</perm>
+        <perm perm="holograms.removeline">hdremoveline</perm>
+        <perm perm="holograms.setline">hdsetline</perm>
+        <perm perm="holograms.insertline">hdinsertline</perm>
+        <perm perm="holograms.info">hdinfo</perm>
+        <perm perm="holograms.readtext">hdreadtext</perm>
+        <perm perm="holograms.copy">hdcopy</perm>
+        <perm perm="holograms.readimage">hdreadimage</perm>
+        <perm perm="holograms.reload">hdreload</perm>
+    </permissions>
+</base>

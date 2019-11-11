@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<base author="FlexICE">
+    <permissions extends="essentials, chestcommands, holographicdisplays">
+    </permissions>
+</base>

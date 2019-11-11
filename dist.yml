@@ -1,0 +1,10 @@
+permissions:
+    - chestcommands.open.filename.yml
+    - essentials.god
+    - essentials.heal
+    - essentials.gamemode.creative
+    - essentials.gamemode.survival
+    - essentials.gamemode.adventure
+    - essentials.gamemode
+    - essentials.delhome
+    - essentials.home

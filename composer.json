@@ -1,0 +1,17 @@
+{
+  "name": "flexice/vendor",
+  "description": "description_text",
+  "minimum-stability": "dev",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "flexice",
+      "email": "get.flexice@gmail.com"
+    }
+  ],
+  "require": {
+    "symfony/yaml": "v4.3.6",
+    "laravie/parser": "v2.0.3",
+    "ext-yaml": "*"
+  }
+}

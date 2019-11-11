@@ -1,0 +1,3 @@
+byFile: src.yml
+outFile: dist.yml
+base: "base"
